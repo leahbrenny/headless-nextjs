@@ -1,8 +1,16 @@
+[![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)](https://frontendmasters.com/courses/web-app-testing/)
+
+This repo is a companion to the [Headless CMSs course](https://frontendmasters.com/courses/headless-cms-nextjs/) on Frontend Masters.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+Install the repo dependencies:
+
+```npm install```
+
+Run the development server:
 
 ```bash
 npm run dev
